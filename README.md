@@ -27,5 +27,5 @@ My expertise includes:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌍 Social networks: 
-![[Tik Tok](https://tiktok.com/@bagaprog)](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![https://tiktok.com/@bagaprog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
