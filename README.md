@@ -1,5 +1,4 @@
-# Hello 👋
-## My name is Baga
+# 👋 Hello  My name is Baga
 **💬 About me:**<br>
 I am learning Full Stack development. And I am Developer with a strong background in Web development
 
