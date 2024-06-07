@@ -1,5 +1,4 @@
 # 👋 Hello, My name is Baga
----
 ## 💬 About me:                                                   
 I'm learning Full Stack development. And I'm Developer with a strong background in Web development. I have honed my skills in both front-end and back-end technologies, ensuring seamless and efficient web applications. I have worked on various projects ranging from small business websites to large-scale enterprise applications.<br> 
                                                                                                                                                
@@ -11,10 +10,10 @@ My expertise includes:
 - **Database Management:** Skilled in working with databases like MongoDB
 
                                                                                                          
-> I am eager and ready to take on new challenges with a proactive mindset and a commitment to excellence. With my expertise in web development and a strong work ethic, I am prepared to contribute significantly to > any project. I thrive in collaborative environments and am passionate about delivering high-quality, innovative solutions                                    
+> I am eager and ready to take on new challenges with a proactive mindset and a commitment to excellence. With my expertise in web development and a strong work ethic, I am prepared to contribute significantly to > any project. I thrive in collaborative environments and am passionate about delivering high-quality, innovative solutions   <br>                                 
                                                                                                                                                                                                                      
 ## 💻 Technologies:<br>
-                                               
+                                 
 
 
 <!--
