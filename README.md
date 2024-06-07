@@ -1,5 +1,14 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=077AF7&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hello+there!;My+name+is+Baga!;I+am+a+Full+Stack+Developer!" alt="Typing SVG" /></a>
 
+- name: generate github-contribution-grid-snake.svg
+        uses: BagaProg/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+
 ## 💬 About me:                                                   
 I'm learning Full Stack development. And I'm Developer with a strong background in Web development. I have honed my skills in both front-end and back-end technologies, ensuring seamless and efficient web applications. I have worked on various projects ranging from small business websites to large-scale enterprise applications<br> 
                                                                                                                                                
