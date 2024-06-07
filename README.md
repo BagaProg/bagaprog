@@ -1,7 +1,6 @@
 # 👋 Hello, My name is Baga
 **💬 About me:**<br>
-I'm learning Full Stack development. And I'm Developer with a strong background in Web development. I have honed my skills in both front-end and back-end technologies, ensuring seamless and efficient web applications.<br>
-I have worked on various projects ranging from small business websites to large-scale enterprise applications. My expertise includes:
+I'm learning Full Stack development. And I'm Developer with a strong background in Web development. I have honed my skills in both front-end and back-end technologies, ensuring seamless and efficient web applications. I have worked on various projects ranging from small business websites to large-scale enterprise applications.<br> My expertise includes:
 
 
 
