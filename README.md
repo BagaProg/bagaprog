@@ -12,14 +12,14 @@ My expertise includes:
                                                                                                          
 > I am eager and ready to take on new challenges with a proactive mindset and a commitment to excellence. With my expertise in web development and a strong work ethic, I am prepared to contribute significantly to > any project. I thrive in collaborative environments and am passionate about delivering high-quality, innovative solutions                                 
                                                                                                                                                                                                                      
-## 💻 Technologies:
-![HTML](https://img.shields.io/badge/HTML-CA4245?style=for-the-badge&logo=html5&logoColor=white)       
+## 💻 Technologies:       
 ![CSS](https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-CA4245?style=for-the-badge&logo=html5&logoColor=white)
 
 
 <!--
