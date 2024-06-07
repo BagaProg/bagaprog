@@ -28,4 +28,4 @@ My expertise includes:
 
 ## 🌍 Social networks: 
 ![[Tik Tok](https://tiktok.com/@bagaprog)](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-![https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white](https://tiktok.com/@bagaprog)
+
