@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!;My+name+is+Baga;I+am+a+Full+Stack+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=EDA42A&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hello+there!;My+name+is+Baga!;I+am+a+Full+Stack+Developer!" alt="Typing SVG" /></a>
 
 ## 💬 About me:                                                   
 I'm learning Full Stack development. And I'm Developer with a strong background in Web development. I have honed my skills in both front-end and back-end technologies, ensuring seamless and efficient web applications. I have worked on various projects ranging from small business websites to large-scale enterprise applications<br> 
@@ -15,7 +13,7 @@ My expertise includes:
                                                                                                          
 > I am eager and ready to take on new challenges with a proactive mindset and a commitment to excellence. With my expertise in web development and a strong work ethic, I am prepared to contribute significantly to  any project. I thrive in collaborative environments and am passionate about delivering high-quality, innovative solutions                                 
                                                                                                                                                                                                                      
-## 💻 Technologies:       
+## 💻 Scills:       
 ![CSS](https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
