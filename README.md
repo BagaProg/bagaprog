@@ -4,9 +4,12 @@ I'm learning Full Stack development. And I'm Developer with a strong background 
                                                                                                                                                
 My expertise includes:<br>
 - **Front-End Development:** Proficient in HTML, CSS, JavaScript, and frameworks such as React
+                              
 - **Back-End Development**: Experienced with server-side languages and frameworks like Node.js, Express
+                                                 
 - **Database Management**: Skilled in working with databases like MongoDB
 
+> I am eager and ready to take on new challenges, bringing my skills and dedication to every project.                                   
 
 
 
