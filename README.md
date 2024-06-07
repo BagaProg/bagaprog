@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!;My+name+is+Baga!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+</h1>
 
 ## 💬 About me:                                                   
 I'm learning Full Stack development. And I'm Developer with a strong background in Web development. I have honed my skills in both front-end and back-end technologies, ensuring seamless and efficient web applications. I have worked on various projects ranging from small business websites to large-scale enterprise applications<br> 
