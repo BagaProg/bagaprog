@@ -13,7 +13,7 @@ My expertise includes:
 > I am eager and ready to take on new challenges with a proactive mindset and a commitment to excellence. With my expertise in web development and a strong work ethic, I am prepared to contribute significantly to > any project. I thrive in collaborative environments and am passionate about delivering high-quality, innovative solutions                                 
                                                                                                                                                                                                                      
 ## 💻 Technologies:<br>
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)                            
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=red)                            
 ![]()
 
 <!--
