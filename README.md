@@ -32,4 +32,4 @@ My expertise includes:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/profile/BagaProg)
 
 ## ⚡Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={bakzhan09}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={bagaprog}&theme=blue-green)
