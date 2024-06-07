@@ -31,3 +31,5 @@ My expertise includes:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bakzhan.baken/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/profile/BagaProg)
 
+## ⚡Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
