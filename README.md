@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!;My+name+is+Baga!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+<h1 ">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!;My+name+is+Baga;I+am+a+Full+Stack+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </h1>
 
 ## 💬 About me:                                                   
