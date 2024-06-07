@@ -1,4 +1,3 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=BagaProg.visitor-badge) <br>
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=EDA42A&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hello+there!;My+name+is+Baga!;I+am+a+Full+Stack+Developer!" alt="Typing SVG" /></a>
 
 ## 💬 About me:                                                   
