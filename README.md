@@ -32,4 +32,4 @@ My expertise includes:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/profile/BagaProg)
 
 ## ⚡Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=BagaProg&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BagaProg&theme=dark&hide_border=true)](https://git.io/streak-stats) 
