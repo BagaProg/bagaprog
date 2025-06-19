@@ -6,17 +6,23 @@
 I am a developer with extensive experience in web development. I have honed my skills in frontend technologies, ensuring websites run smoothly and efficiently. I have worked on a variety of projects ranging from small business websites to large scale enterprise applications<br> 
                                                                                                                                                
 My expertise includes:
-- **Layout Development:** Proficient in HTML, CSS
-
-- **Frontend Development:** Proficient in JavaScript, TypeScript(in the process), React(in the process)
-                                                                                                         
+- **Layout Development:** Proficient in HTML, CSS, Taiwind CSS
+- **Frontend Development:** Proficient in JavaScript, TypeScript(in the process), React
+- Mobile-first, responsive design
+- Multilingual websites (i18n: English, Russian, Kazakh)
+- Custom UI/UX design built from scratch in Figma
+- Component-based development with React & Tailwind CSS
+- Real-world features: cart page, sidebar navigation
+- Optimized deployment with Vite & GitHub Pages
+                                                                                                 
 > I am eager and ready to take on new challenges with a proactive mindset and a commitment to excellence. With my expertise in web development and a strong work ethic, I am prepared to contribute significantly to  any project. I thrive in collaborative environments and am passionate about delivering high-quality, innovative solutions                                 
                                                                                                                                                                                                                      
 ## 💻 Skills:  
 ![HTML](https://img.shields.io/badge/HTML-CA4245?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<!--![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)-->
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <!--![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)-->
