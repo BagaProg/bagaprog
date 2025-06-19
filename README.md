@@ -9,7 +9,7 @@ My expertise includes:
 - **Layout Development:** Proficient in HTML, CSS, Taiwind CSS
 - **Frontend Development:** Proficient in JavaScript, TypeScript(in the process), React
 - Mobile-first, responsive design
-- Multilingual websites (i18n: English, Russian, Kazakh)
+- Multilingual websites (i18next)
 - Custom UI/UX design built from scratch in Figma
 - Component-based development with React & Tailwind CSS
 - Real-world features: cart page, sidebar navigation
